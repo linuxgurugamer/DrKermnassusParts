@@ -6,6 +6,7 @@
 	Fixed syntax in gravCoreRes.cfg (missing closing braces
 	Updated roverAdaptorTank to use the stock localization values for the
 	ModuleResourceConverter
+	Added README.md, with part descriptions
 
 TODO
 	Add tags 
