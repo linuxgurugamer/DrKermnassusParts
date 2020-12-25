@@ -1,0 +1,13 @@
+0.0.0
+	Original mod
+
+0.0.1
+	Updaetd bigHitch ModuleRCS to ModuleRCSFX
+	Fixed syntax in gravCoreRes.cfg (missing closing braces
+	Updated roverAdaptorTank to use the stock localization values for the
+	ModuleResourceConverter
+
+TODO
+	Add tags 
+	Adjust maxTemps
+	Check crashTolerances
