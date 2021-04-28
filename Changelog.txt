@@ -2,13 +2,14 @@
 	Original mod
 
 0.0.1
-	Updaetd bigHitch ModuleRCS to ModuleRCSFX
+	Updated bigHitch ModuleRCS to ModuleRCSFX
 	Fixed syntax in gravCoreRes.cfg (missing closing braces
 	Updated roverAdaptorTank to use the stock localization values for the
 	ModuleResourceConverter
 	Added README.md, with part descriptions
 
-TODO
-	Add tags 
-	Adjust maxTemps
-	Check crashTolerances
+0.0.2 
+	License changed to CC-BY
+		Added contributed modules by forum user @Hohmannson to the scannerProbe a mini-JWST(visible light,extreme resolution) and bunch of cams(multispectral)
+	Updated tags, bulkhead profiles, other minor changes to all parts
+	Added ability to retract solar shield in the editor
