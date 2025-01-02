@@ -13,3 +13,12 @@
 		Added contributed modules by forum user @Hohmannson to the scannerProbe a mini-JWST(visible light,extreme resolution) and bunch of cams(multispectral)
 	Updated tags, bulkhead profiles, other minor changes to all parts
 	Added ability to retract solar shield in the editor
+    Added dummy internal module for those parts without an internal so that the crew portraits can be shown
+	
+0.0.2.1
+	Updated version file to use github for new version info
+	In the part keRoverBody, merged the two bulkheadProfiles statements into one
+	In the part bigHitch, fixed syntax error in the tags line
+	Fixed syntax errors in the part bigHitch for the optional tweakscale module
+	Copied web page to README-WEB.md
+	
